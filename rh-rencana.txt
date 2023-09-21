@@ -3,6 +3,7 @@ c1
 c2
 c3
 rencana baru
+rencana baru c3
 c4
 c5
 c6
